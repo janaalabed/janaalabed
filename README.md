@@ -79,7 +79,7 @@ A ticket management system designed to streamline IT support requests, issue tra
 
 ### Donation Platform
 
-## A web platform that connects donors with organizations through an efficient and user-friendly donation workflow.
+A web platform that connects donors with organizations through an efficient and user-friendly donation workflow.
 
 ## Connect with Me
 
