@@ -10,7 +10,7 @@ I enjoy building modern full-stack web applications that solve real-world proble
 
 ---
 
-##  About Me
+## About Me
 
 - 🎓 Computer Science Graduate
 - 💼 Aspiring Full-Stack Developer
@@ -21,7 +21,7 @@ I enjoy building modern full-stack web applications that solve real-world proble
 
 ---
 
-##  Tech Stack
+## Tech Stack
 
 ### Languages
 
@@ -61,9 +61,9 @@ I enjoy building modern full-stack web applications that solve real-world proble
 
 ---
 
-##  Featured Projects
+## Featured Projects
 
-###  Jobify
+### Jobify
 
 A full-stack recruitment platform connecting job seekers with recruiters through secure authentication, applicant tracking, recruiter dashboards, and role-based workflows.
 
@@ -71,28 +71,17 @@ A full-stack recruitment platform connecting job seekers with recruiters through
 
 ---
 
-###  IT Helpdesk Ticketing System
+### IT Helpdesk Ticketing System
 
 A ticket management system designed to streamline IT support requests, issue tracking, and workflow management.
 
 ---
 
-###  Donation Platform
+### Donation Platform
 
-A web platform that connects donors with organizations through an efficient and user-friendly donation workflow.
+## A web platform that connects donors with organizations through an efficient and user-friendly donation workflow.
 
----
-
-##  GitHub Statistics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=janaalabed&show_icons=true&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janaalabed&layout=compact&hide_border=true" />
-</p>
-
----
-
-##  Connect with Me
+## Connect with Me
 
 - 💼 LinkedIn: **https://www.linkedin.com/in/jana-al-abed-97772335a/**
 - 📧 Email: **janaalabed0101@gmail.com**
